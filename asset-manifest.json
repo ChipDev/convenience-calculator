@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/chipdev.github.io/convenience-calculator/static/css/main.a003dce8.css",
-    "main.js": "/chipdev.github.io/convenience-calculator/static/js/main.774a8bc6.js",
-    "static/media/LosPadres1.jpg": "/chipdev.github.io/convenience-calculator/static/media/LosPadres1.20c816c3ffe485178ec1.jpg",
-    "index.html": "/chipdev.github.io/convenience-calculator/index.html",
-    "main.a003dce8.css.map": "/chipdev.github.io/convenience-calculator/static/css/main.a003dce8.css.map",
-    "main.774a8bc6.js.map": "/chipdev.github.io/convenience-calculator/static/js/main.774a8bc6.js.map"
+    "main.css": "/convenience-calculator/static/css/main.6d24991b.css",
+    "main.js": "/convenience-calculator/static/js/main.774a8bc6.js",
+    "static/media/LosPadres1.jpg": "/convenience-calculator/static/media/LosPadres1.20c816c3ffe485178ec1.jpg",
+    "index.html": "/convenience-calculator/index.html",
+    "main.6d24991b.css.map": "/convenience-calculator/static/css/main.6d24991b.css.map",
+    "main.774a8bc6.js.map": "/convenience-calculator/static/js/main.774a8bc6.js.map"
   },
   "entrypoints": [
-    "static/css/main.a003dce8.css",
+    "static/css/main.6d24991b.css",
     "static/js/main.774a8bc6.js"
   ]
 }
